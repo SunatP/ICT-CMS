@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ICT-CMS</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="todo">TODO</string>
+    <string name="Signup">SIGN UP</string>
+    <string name="ID">ID :</string>
+    <string name="Password">Password :</string>
+    <string name="hello" />
+    <string name="lastname">Lastname :</string>
+    <string name="id">ID :</string>
+    <string name="firstname">Firstname :</string>
+    <string name="email">Email :</string>
+    <string name="phone">Phone :</string>
+    <string name="password">Password :</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICT-CMS</string>
+    <string name="login">เข้าสู่ระบบ</string>
+    <string name="register">ลงทะเบียนผู้ใช้</string>
+    <string name="todo">สิ่งที่ต้องทำ</string>
+    <string name="Signup">ลงทะเบียน</string>
+    <string name="Password">รหัสผ่าน :</string>
+    <string name="lastname">นามสกุล :</string>
+    <string name="id">ไอดี :</string>
+    <string name="firstname">ชื่อจริง :</string>
+    <string name="email">อีเมล :</string>
+    <string name="phone">เบอร์โทรศัพท์ :</string>
+    <string name="password">รหัสผ่าน :</string>
+</resources>

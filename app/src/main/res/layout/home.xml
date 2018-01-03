@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ExtraText"
+    android:layout_column="1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:src="@mipmap/cms" android:contentDescription="@string/todo" />
+
+
+---------------------------------------------------  END LOGIN WITH ID AND PASSWORD ZONE -----------------------------------
+    <Button
+        android:id="@+id/signin"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="125dp"
+        android:layout_marginRight="125dp"
+        android:onClick="onClickNext"
+        android:text="@string/login"/>
+
+    <Button
+        android:id="@+id/regis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_gravity="center"
+        android:layout_marginLeft="125dp"
+        android:layout_marginRight="125dp"
+        android:onClick="onClickNext"
+        android:text="@string/register" />
+    <Button
+        android:id="@+id/TH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginRight="125dp"
+        android:onClick="onClickNext"
+        android:text="Change To Thai" />
+    <Button
+        android:id="@+id/EN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="125dp"
+        android:layout_marginRight="125dp"
+        android:onClick="onClickNext"
+        android:text="Change To English" />
+
+</TableLayout>
+
