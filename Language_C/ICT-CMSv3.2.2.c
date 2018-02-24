@@ -1,3 +1,0 @@
-/*
-    THIS FILE CAN REGISTER ONLY
-*/
